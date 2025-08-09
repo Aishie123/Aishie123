@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishie123" alt="aishie123" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Unity**
 
 - 📄 Know about my experiences [https://aishie123.github.io/aishie-personal-website/](https://aishie123.github.io/aishie-personal-website/)
 
